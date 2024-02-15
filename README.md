@@ -37,7 +37,7 @@ npm start
 
 ## Usage
 
-1. Open your browser and visit [http://localhost:3000](http://localhost:3000) to access the Connect Me application.
+1. Open your browser and visit [http://localhost:3000](http://localhost:3000) to access the BuddyTalk application.
 
 2. Type your username and room number you want to enter.
 
